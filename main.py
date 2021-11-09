@@ -131,5 +131,7 @@ def main():
     deck.display_deck()
     print(deck.getNumCards())
 
+# main running as script
+if __name__ == "main":
+    main()
 
-main()
