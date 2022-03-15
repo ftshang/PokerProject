@@ -133,6 +133,8 @@ def main():
     deck = Deck()
     deck.display_deck()
     print(deck.getNumCards())
+    print(random.randint(5, 2))
+    print("Oh no!")
 
 # main running as script
 if __name__ == "main":
