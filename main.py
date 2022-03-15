@@ -1,3 +1,6 @@
+# Name: Frank Shang
+# Date: 3/15/2022
+
 import random
 
 class Card():
